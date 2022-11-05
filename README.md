@@ -1,4 +1,4 @@
-<h1>👋🏼 Hi, I am Fadhil Nuruzzaman.<h1>
+<h2>👋🏼 Hi, I am Fadhil Nuruzzaman.</h2>
     
 <h3>💼 Career</h3>
 <li>Currently working in IT Team.</li>
