@@ -1,7 +1,7 @@
-<h2>👋🏼 Hi, I am Fadhil Nuruzzaman.</h2>
+<h2>👋🏼 Hi, I am Fadhil Nuruzzaman</h2>
     
 <h3>💼 Career</h3>
-<li>Currently working in IT Team.</li>
+<li>Currently working in IT Team</li>
 
 <h3>💻 Experiences</h3>
 <li>TailwindCSS</li>
