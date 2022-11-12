@@ -6,9 +6,9 @@
 <h3>💻 Experiences</h3>
 <li>TailwindCSS</li>
 <li>JavaScript</li>
-<li>Git</li>
 <li>React Js</li>
 <li>Next Js</li>
+<li>Git</li>
 
 <h3>📒 Currently Learning:</h3>
 <li>Full-Stack Web Development using Javascript</li>
